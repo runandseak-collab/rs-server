@@ -1,3 +1,0 @@
-{ "name": "run-and-seak-server", "version": "1.0.0", "type": "module",
-  "scripts": { "start": "node server.mjs" },
-  "dependencies": { "ws": "^8.18.0" }, "engines": { "node": ">=18" } }
